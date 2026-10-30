@@ -1,26 +1,28 @@
-# Tableau de bord analytique des ventes de 【entity-PepsiCo¦canonical_name=PepsiCo】 en Arabie saoudite
-Par Amel Ben Nasr - ID 2026-478871
+# PepsiCo KSA Sales Analytics Dashboard
+By Amel Ben Nasr - ID 2026-478871
 
 Chaque paquet vendu est une conversation.
 
-## Principales conclusions
-- Lay's 35%, 【entity-Pepsi¦canonical_name=Pepsi】 30%, 【entity-Doritos¦canonical_name=Doritos】 15% = 65% des ventes
-- Ventes 2023: 120M → 2026: 162M +35%, Ramadan: +40%
-- Canaux: Commerce moderne 45%, Traditionnel 35%, Electronique 20% (+45% YoY)
-- Constat: 62% achètent 【entity-Lay's¦canonical_name=Lay's】 et 【entity-Pepsi¦canonical_name=Pepsi】 ensemble, 78% recommencent
+Principales conclusions
+Lay's 35 pourcent, Pepsi 30 pourcent, Doritos 15 pourcent = 65 pourcent des ventes
+Ventes 2023 120M vers 2026 162M plus 35 pourcent, Ramadan plus 40 pourcent
+Canaux Moderne 45 pourcent, Traditionnel 35 pourcent, Electronique 20 pourcent plus 45 pourcent
+Constat 62 pourcent achetent 2 produits ensemble, 78 pourcent recommencent
 
-## Recommandations
-- Bundle 【entity-Lay's¦canonical_name=Lay's】 + 【entity-Pepsi¦canonical_name=Pepsi】 = +18% panier
-- Boost E-com Doritos Gen Z +45%
-- Pre-stock Ramadan Cheetos & Mirinda
+Recommandations
+Pack combine plus 18 pourcent panier
+Boostez e-commerce 45 pourcent
+Pre-stocker pour Ramadan
 
-## Méthodologie
-14 Ans INS Tunisie - 500K ménages - 99.5% précision
-Outils: Excel, Power BI, Oracle, SPSS
+Methodologie
+14 Ans INS Tunisie - 500K menages - 99,5 pourcent precision
+Outils Excel, Power BI, Oracle, SPSS
 
-## Auteur
-Amel Ben Nasr - +216 52 880 776 - amelbennasr1979@gmail.com
-LinkedIn: linkedin.com/in/amel-ben-nasr-a5988a3a6
-Disponible: 30 jours - Visa requis - Ouvert à Riyadh KSA
+Auteur
+Amel Ben Nasr
+Telephone 216 52 880 776
+Email amelbennasr1979@gmail.com
+LinkedIn linkedin.com/in/amel-ben-nasr-a5988a3a6
+Disponible 30 jours Visa requis Ouvert a Riyadh
 
-ID: Analyste Numérique Riyadh - 【entity-PepsiCo¦canonical_name=PepsiCo】 2026-478871
+Application Analyste Numerique Riyadh ID 2026-478871
