@@ -1,27 +1,26 @@
-# PepsiCo KSA Sales Analytics Dashboard
-By Amel Ben Nasr - ID 2026-478871
+# Tableau de bord analytique des ventes de 【entity-PepsiCo¦canonical_name=PepsiCo】 en Arabie saoudite
+Par Amel Ben Nasr - ID 2026-478871
 
-Every Pack Sold is a Conversation
+Chaque paquet vendu est une conversation.
 
-## Key Findings
-- 【entity-Lay's¦canonical_name=Lay's】 35%, 【entity-Pepsi¦canonical_name=pepsi】 30%, 【entity-Doritos¦canonical_name=Doritos】 15% = 65% of sales
-- Sales 2023:120M → 2026:162M (+35%), Ramadan +40%
-- Channels: Modern Trade 45%, Traditional 35%, E-com 20% +45% YoY
-- Insight: 62% buy 【entity-Lay's¦canonical_name=Lay's】+Pepsi together, Repeat 78%
+## Principales conclusions
+- Lay's 35%, 【entity-Pepsi¦canonical_name=Pepsi】 30%, 【entity-Doritos¦canonical_name=Doritos】 15% = 65% des ventes
+- Ventes 2023: 120M → 2026: 162M +35%, Ramadan: +40%
+- Canaux: Commerce moderne 45%, Traditionnel 35%, Electronique 20% (+45% YoY)
+- Constat: 62% achètent 【entity-Lay's¦canonical_name=Lay's】 et 【entity-Pepsi¦canonical_name=Pepsi】 ensemble, 78% recommencent
 
-## Recommendations
-- Bundle 【entity-Lay's¦canonical_name=Lay's】 + Pepsi = +18% basket
-- Boost E-com 【entity-Doritos¦canonical_name=Doritos】 Gen Z +45%
-- Ramadan pre-stock Cheetos & Mirinda
+## Recommandations
+- Bundle 【entity-Lay's¦canonical_name=Lay's】 + 【entity-Pepsi¦canonical_name=Pepsi】 = +18% panier
+- Boost E-com Doritos Gen Z +45%
+- Pre-stock Ramadan Cheetos & Mirinda
 
-## Methodology
-14 Years INS Tunisia - 500K households - 99.5% accuracy
-Tools: Advanced Excel, Power BI, Oracle, SPSS
+## Méthodologie
+14 Ans INS Tunisie - 500K ménages - 99.5% précision
+Outils: Excel, Power BI, Oracle, SPSS
 
-## Author
-Amel Ben Nasr
-+216 52 880 776 - amelbennasr1979@gmail.com
+## Auteur
+Amel Ben Nasr - +216 52 880 776 - amelbennasr1979@gmail.com
 LinkedIn: linkedin.com/in/amel-ben-nasr-a5988a3a6
-Available: 30 days - Requires Visa - Open to Riyadh KSA
+Disponible: 30 jours - Visa requis - Ouvert à Riyadh KSA
 
-Application: Analyste Numérique Riyadh - PepsiCo ID 2026-478871
+ID: Analyste Numérique Riyadh - 【entity-PepsiCo¦canonical_name=PepsiCo】 2026-478871
